@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b107b4c0.css",
+    "main.js": "/static/js/main.ed535dc2.js",
+    "static/media/logo.png": "/static/media/logo.85ddc21e290fb4fa8b9e.png",
+    "static/media/pool3.png": "/static/media/pool3.efd35b225b66a0b99569.png",
+    "static/media/resort2.png": "/static/media/resort2.3ff3ddf4145d1e0625c0.png",
+    "static/media/pool1.png": "/static/media/pool1.401014c3fb2146cf723c.png",
+    "static/media/resort3.png": "/static/media/resort3.9f40dce6080ec0ea74d2.png",
+    "static/media/pool.png": "/static/media/pool.f8b22a37ed87ffa56458.png",
+    "static/media/spa4.png": "/static/media/spa4.dd40508d9cd0575158b3.png",
+    "static/media/spa5.png": "/static/media/spa5.6fa227ca66287b48a67b.png",
+    "static/media/spa3.png": "/static/media/spa3.b6c6f924d2936387bea5.png",
+    "index.html": "/index.html",
+    "main.b107b4c0.css.map": "/static/css/main.b107b4c0.css.map",
+    "main.ed535dc2.js.map": "/static/js/main.ed535dc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b107b4c0.css",
+    "static/js/main.ed535dc2.js"
+  ]
+}

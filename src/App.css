@@ -1,0 +1,103 @@
+.navbar1 {
+  height: 100px;
+}
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.icon {
+  cursor: pointer;
+  margin-right: 50px;
+}
+.navbar {
+  position: fixed !important;
+  width: 100%;
+  z-index: 22;
+}
+.new-nav {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.main-card {
+  border-radius: 50px !important;
+  margin-bottom: 30px;
+}
+.card-text {
+  text-align: center;
+}
+
+.main-nav {
+  background-color: rgb(27, 1, 1);
+  position: fixed;
+  padding: 10px 0px;
+  z-index: 222;
+  overflow: auto;
+}
+
+@media screen and (max-width: 991px) {
+  .main-nav {
+    position: static;
+  }
+}
+
+.iconsize {
+  height: 60px;
+  width: 100px;
+  /* margin-left: 110px; */
+}
+.cards {
+  padding-top: 100px;
+  display: flex;
+}
+.card1 {
+  display: flex;
+  justify-content: center;
+}
+.card1 img {
+  height: 300px;
+  width: 17rem;
+  border-radius: 15px;
+}
+.place {
+  padding-top: 90px;
+}
+
+.subnav {
+  /* border: 1px solid; */
+  height: 80px;
+  width: 500px;
+  margin-right: 490px;
+  /* border-radius: 50px; */
+  display: flex;
+}
+
+.nav1 {
+  /* border: 1px solid; */
+  width: 160px;
+  /* border-radius: 50px; */
+}
+
+.host {
+  margin-right: 140px;
+}
+
+.new-icons {
+  border-bottom: 4px solid red;
+}
+
+.icon svg {
+  width: 40px;
+}
+
+.navbar-brand img {
+  width: 100px;
+  height: auto;
+}
+
+.navbar-nav {
+  margin: auto;
+}
